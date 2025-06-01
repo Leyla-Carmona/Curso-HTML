@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav, footer{
+    background-color: #A19696;
+    height: 85px;
+    width: 100%;
+    padding-left: 10px;
+    text-align: left;
+    align-content: center;
+    border: 2px solid black;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
+h1{
+    font-weight: 100;
+}
+
+img{
+    width: auto;
+    height: 380px;
+    border-radius: 45px;
+    margin-top: -25px;
+}
+
+div{
+    background-color: #F6EAEA;
+    padding: 20px;
+    margin-top: 10px;    
+    border: 2px solid black;
+}
+
+ul,li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
